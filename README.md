@@ -118,7 +118,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![](./calculator.png)
+![](./standard-calculator.png)
 
 ## Result:
 
