@@ -1,7 +1,6 @@
 # Design of a Standard Calculator
 
 ## AIM:
-
 To design a web application for a standard calculator.
 
 ## DESIGN STEPS:
